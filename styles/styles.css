@@ -1,0 +1,29 @@
+h1 {
+  background-color: darkgoldenrod;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: darkolivegreen;
+}
+
+ul:hover {
+  color: purple;
+}
+li:hover {
+  color: deeppink;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  font-size: larger;
+  color: deeppink;
+}
+
+li a {
+  color: white;
+}
